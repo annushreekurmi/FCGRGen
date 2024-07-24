@@ -12,14 +12,14 @@ Operating System: Windows 10 (also tested on Linux)
 Python: 3.6 or higher
 RAM: Minimum 4 GB
 # Installation
-Windows
+# Windows
 Clone the repository or download the ZIP file and extract it.
 Install the required Python packages:
 pip install matplotlib Pillow tkinter
 Run the script directly:
 python fcgrGen-15-07-24.py
 
-Linux
+# Linux
 Clone the repository or download the ZIP file and extract it.
 Install the required Python packages:
 pip install matplotlib Pillow tkinter
@@ -40,6 +40,10 @@ Image Mode: Select the image mode (Grayscale or RGB) from the dropdown menu.
 
 Generate Image: Click the "Generate FCGR Image" button to start the image generation process.
 
+# Executable application file
+For the users who are not accustomed to Python, a standalone executable file has been created.
+Download the exe file from: https://drive.google.com/file/d/1kIJWWoLOhmUhj7DvAGtQ_FkIPonqtfda/view?usp=sharing  
+Installation and usage: Double click the exe file icon and the application will be launched.
 # Real-Time Feedback
 Progress Update Messages: The status label will display messages indicating the current stage of the operation, such as reading the input FASTA file and generating the FCGR images.
 
