@@ -26,7 +26,7 @@ pip install matplotlib Pillow tkinter
 Run the script directly:
 python fcgrGen-15-07-24.py
 # Usage
-Launch the Tool: Run the script fcgrGen-15-07-24.py using Python.
+Launch the Tool: Run the script fcgrGen-15-07-24.py using Python. (Download the image file "gui-image-28-06-24.png" from the files attachments and save it in the same folder as the Python script)
 
 Input FASTA File: Click the "Browse" button next to the "Input FASTA file" field to select a FASTA file containing DNA sequences.
 
